@@ -1,9 +1,9 @@
-# Firefox 47 + Marionette + geckodriver
+# Firefox + Marionette + geckodriver
 
 ## Prerequisites
 
-- Firefox 47
-- geckodriver
+- [Firefox 47](https://www.mozilla.org/en-US/firefox/new/)
+- [geckodriver](https://github.com/mozilla/geckodriver/)
 
 ## Installation
 
@@ -17,5 +17,4 @@
 ## Links
 
 - https://github.com/zeljkofilipin/firefox-marionette-geckodriver-rb
-- https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver
-- https://github.com/mozilla/geckodriver/
+- [Marionette](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver)
