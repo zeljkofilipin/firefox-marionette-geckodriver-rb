@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- [Firefox 47](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox 48+](https://www.mozilla.org/en-US/firefox/new/)
 - [geckodriver](https://github.com/mozilla/geckodriver/)
 
 ## Installation
